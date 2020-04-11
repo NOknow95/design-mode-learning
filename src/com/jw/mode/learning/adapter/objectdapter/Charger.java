@@ -1,4 +1,4 @@
-package com.jw.adapter.objectdapter;
+package com.jw.mode.learning.adapter.objectdapter;
 
 /**
  * 手机充电器接口

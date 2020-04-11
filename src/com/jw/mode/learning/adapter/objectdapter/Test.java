@@ -1,4 +1,4 @@
-package com.jw.adapter.objectdapter;
+package com.jw.mode.learning.adapter.objectdapter;
 
 /**
  * 对象适配器-测试类
