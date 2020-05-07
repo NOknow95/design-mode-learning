@@ -1,4 +1,4 @@
-package com.jw.mode.learning.adapter.objectdapter;
+package com.jw.mode.learning.adapter.objectdapter.demo1;
 
 /**
  * 对象适配器-测试类
@@ -7,7 +7,7 @@ package com.jw.mode.learning.adapter.objectdapter;
  * @version 1.0
  * @date 2020/03/28
  */
-public class Test {
+public class Client {
 
   public static void main(String[] args) {
     //实例化手机

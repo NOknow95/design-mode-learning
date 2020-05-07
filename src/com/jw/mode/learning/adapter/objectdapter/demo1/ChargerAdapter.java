@@ -1,4 +1,4 @@
-package com.jw.mode.learning.adapter.objectdapter;
+package com.jw.mode.learning.adapter.objectdapter.demo1;
 
 /**
  * 手机充电器适配器
